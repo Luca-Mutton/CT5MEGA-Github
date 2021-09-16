@@ -1,0 +1,45 @@
+For my artefact, my project involves controlling a character from the camera's perspective where you have the ability to pick up an object 
+and be able to rotate them using inputs from the keyboard. I decided to work this idea because it would be good practice with 
+using quaternions that allows for the objects to be rotated. I also added objects that act as collectible coins for the player to pick up, 
+that will also be rotating, similar to how rings spin in Sonic the Hedgehog games.
+
+Player Controls:
+W- Forward
+A- Left
+S- Back
+D- Right
+
+Move the mouse to rotate the camera.
+
+Object rotation controls:
+Up arrow key: up
+Left arrow key: left
+Right arrow key:right 
+Down arrow key: down
+
+References:
+Technologies, U. Unity - Scripting API: Rigidbody.interpolation. Retrieved from https://docs.unity3d.com/ScriptReference/Rigidbody-interpolation.html
+
+Gimbal lock. Retrieved 26 April 2020, from https://en.m.wikipedia.org/wiki/Gimbal_lock
+
+Technologies, U. Unity - Scripting API: Matrix4x4. Retrieved from https://docs.unity3d.com/ScriptReference/Matrix4x4.html
+
+Technologies, U. Unity - Scripting API: Quaternion. Retrieved from https://docs.unity3d.com/ScriptReference/Quaternion.html
+
+Uddin, J. CT5MEGA Lecture 1- Basic vectors. Presentation.
+
+Uddin, J. CT5MEGA Lecture 4- Interpolation and Matrix Transformation. Presentation.
+
+Uddin, J. CT5MEGA Lecture 6 - Quaternions. Presentation.
+
+Uddin, J. CT5MEGA Lecture 7 - Geometry and Collision Detection. Presentation.
+
+Developer, A. (2018). [Unity C#] First Person Controller (E01: Basic FPS Controller and Jumping) [Video]. 
+Retrieved from https://www.youtube.com/watch?v=n-KX8AeGK7E&list=LL2bEbu8lBfjhfw6f5x0U2SA&index=5&t=275s
+
+Unity3D tutorial - rotate object (when picked up). (2014). [Video]. 
+Retrieved from https://www.youtube.com/watch?v=OGnKubHKT7E&list=LL2bEbu8lBfjhfw6f5x0U2SA&index=6&t=0s
+
+Andreas, (2002). Retrieved 19 May 2020, from http://www.opengl-tutorial.org/assets/faq_quaternions/index.html#Q57
+
+Moodle: Log in to the site. Retrieved 19 May 2020, from https://moodle.port.ac.uk/course/view.php?id=8404
